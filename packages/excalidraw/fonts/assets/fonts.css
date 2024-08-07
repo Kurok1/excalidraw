@@ -3,6 +3,13 @@
 /* WARN: The following content is replaced during excalidraw-app build  */
 
 @font-face {
+  font-family: "Yutong";
+  src: url(./Yutong.ttf);
+  style: normal;
+  display: swap;
+}
+
+@font-face {
   font-family: "Assistant";
   src: url(./Assistant-Regular.woff2) format("woff2");
   font-weight: 400;
