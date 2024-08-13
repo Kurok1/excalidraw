@@ -20,6 +20,7 @@ import { getContainerElement } from "../element/textElement";
 
 import Virgil from "./assets/Virgil-Regular.woff2";
 import Excalifont from "./assets/Excalifont-Regular.woff2";
+import Yutong from "./assets/Yutong.ttf";
 import Cascadia from "./assets/CascadiaCode-Regular.woff2";
 import ComicShanns from "./assets/ComicShanns-Regular.woff2";
 import LiberationSans from "./assets/LiberationSans-Regular.woff2";
@@ -216,6 +217,10 @@ export class Fonts {
 
     _register("Excalifont", FONT_METADATA[FONT_FAMILY.Excalifont], {
       uri: Excalifont,
+    });
+
+    _register("Yutong", FONT_METADATA[FONT_FAMILY.Excalifont], {
+      uri: Yutong,
     });
 
     // keeping for backwards compatibility reasons, uses system font (Helvetica on MacOS, Arial on Win)

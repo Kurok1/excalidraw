@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "Yutong";
-  src: url(./Yutong.ttf);
+  src: url(./Yutong.ttf) format("truetype");
   style: normal;
   display: swap;
 }
