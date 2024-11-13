@@ -105,6 +105,13 @@ module.exports.woff2BrowserPlugin = () => {
       <!-- Preload all default fonts and Virgil for backwards compatibility to avoid swap on init -->
       <link
         rel="preload"
+        href="/Muyao.ttf"
+        as="font"
+        type="font/ttf"
+        crossorigin="anonymous"
+      />
+      <link
+        rel="preload"
         href="/Yutong.ttf"
         as="font"
         type="font/ttf"

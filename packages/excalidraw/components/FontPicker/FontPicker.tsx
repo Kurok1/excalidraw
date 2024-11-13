@@ -29,6 +29,12 @@ export const DEFAULT_FONTS = [
     text: t("labels.normal"),
     testId: "font-family-yutong",
   },
+  {
+    value: FONT_FAMILY.Muyao,
+    icon: FontFamilyNormalIcon,
+    text: t("labels.normal"),
+    testId: "font-family-muyao",
+  },
   // {
   //   value: FONT_FAMILY.Nunito,
   //   icon: FontFamilyNormalIcon,

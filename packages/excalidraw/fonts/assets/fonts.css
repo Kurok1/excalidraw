@@ -3,6 +3,13 @@
 /* WARN: The following content is replaced during excalidraw-app build  */
 
 @font-face {
+  font-family: "Muyao";
+  src: url(./Muyao.ttf) format("truetype");
+  style: normal;
+  display: swap;
+}
+
+@font-face {
   font-family: "Yutong";
   src: url(./Yutong.ttf) format("truetype");
   style: normal;

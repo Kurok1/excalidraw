@@ -132,7 +132,8 @@ export const FONT_FAMILY = {
   "Lilita One": 7,
   "Comic Shanns": 8,
   "Liberation Sans": 9,
-  Yutong: 999
+  Yutong: 999,
+  Muyao: 1000
 };
 
 export const THEME = {
